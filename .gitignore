@@ -17,3 +17,6 @@ venv/
 
 # Ignore log files
 *.log
+
+git command.txt
+
